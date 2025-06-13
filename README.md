@@ -1,7 +1,8 @@
 # AudibleAI
 **AI-powered offensive play sheet generator for high school football teams**
 
-AudibleAI helps coaches quickly generate customized offensive play sheets based on the opponent’s defensive scheme, down, and distance. Designed with speed, simplicity, and strategy in mind.
+AudibleAI helps coaches quickly generate customized offensive play sheets based on the opponent’s defensive scheme, down, and distance. Designed with speed, simplicity, and strategy in mind. High school coaches deserve faster, smarter game prep. AudibleAI combines football IQ with modern software to take the chalkboard to the cloud.
+
 
 ---
 
