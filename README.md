@@ -26,11 +26,14 @@ AudibleAI helps coaches quickly generate customized offensive play sheets based 
 
 ## 📂 Project Structure (Planned)
 AudibleAI/
-
 ├── frontend/ # UI (React or Next.js)
+
 ├── backend/ # API logic, play generation, storage
+
 ├── data/ # Playbook templates, scheme definitions
+
 ├── docs/ # Agile planning, use cases, diagrams
+
 └── README.md
 
 ---
